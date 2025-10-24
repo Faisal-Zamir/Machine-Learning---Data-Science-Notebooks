@@ -1,0 +1,7 @@
+1. What is ACST?
+
+ACST is the stock ticker symbol of a company.
+
+A ticker symbol is a unique abbreviation used to identify a publicly traded company on a stock exchange.
+
+So ACST refers to the company listed under this ticker (in this case, AC Immune SA, traded on NASDAQ).
